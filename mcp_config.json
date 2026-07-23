@@ -12,7 +12,7 @@
         "MYSQL_HOST": "127.0.0.1",
         "MYSQL_PORT": "3307",
         "MYSQL_USER": "mcp_user",
-        "MYSQL_PASSWORD": "McpUser@123",
+        "MYSQL_PASSWORD": "*******",
         "MYSQL_DATABASE": "company_db"
       }
     }
